@@ -12,9 +12,7 @@
 </div>
 
 <br>
-<br>
-<h2> :man_technologist: About Me : </h2>
-<p>I am a Python Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.</p>
+
 
 ---
 
