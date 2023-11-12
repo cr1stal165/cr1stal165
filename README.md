@@ -1,3 +1,5 @@
+[![roadmap.sh](https://roadmap.sh/python?s=6450dbe6618c45b1baa7f4f8)](https://roadmap.sh)
+
 <div id="header" align="center">
   <img src="https://media4.giphy.com/media/Q7SKqn3G97xpmfSOvG/giphy.gif?cid=ecf05e47129ki740dgvpadhemmowke72dg1zkjypr7x6hquc&rid=giphy.gif&ct=g" width="250"/>
 </div>
